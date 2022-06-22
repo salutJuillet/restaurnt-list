@@ -1,0 +1,7 @@
+[
+    {"id":"1", "sigun":"고양시", "title":"맥도날드", "tel":"031-123-1234", "title_food":"빅맥", "zip":"01234", "address":"도로명 주소", "address_old":"지번 주소", "latitude":"37.6820421", "longitude":"126.7535498", "radius":"100"},
+    {"id":"2", "sigun":"김포시", "title":"맘스터치", "tel":"031-123-1234", "title_food":"싸이버거", "zip":"01234", "address":"도로명 주소", "address_old":"지번 주소", "latitude":"37.2905974", "longitude":"127.0504725", "radius":"100"},
+    {"id":"3", "sigun":"김포시", "title":"봉구스 밥버거", "tel":"031-123-1234", "title_food":"치즈닭갈비", "zip":"01234", "address":"도로명 주소", "address_old":"지번 주소", "latitude":"37.9028018", "longitude":"127.0536723", "radius":"100"},
+    {"id":"4", "sigun":"파주시", "title":"명랑핫도그", "tel":"031-123-1234", "title_food":"감자통모짜핫도그", "zip":"01234", "address":"도로명 주소", "address_old":"지번 주소", "latitude":"37.2363835", "longitude":"127.2039826", "radius":"100"},
+    {"id":"5", "sigun":"성남시", "title":"동대문 엽기떡볶이", "tel":"031-123-1234", "title_food":"엽기떡볶이", "zip":"01234", "address":"도로명 주소", "address_old":"지번 주소", "latitude":"37.738962", "longitude":"127.0376318", "radius":"100"}  
+]
