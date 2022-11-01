@@ -1,7 +1,7 @@
 {
-    "host" : "localhost",
-    "user" : "juillet",
-    "password" : "123456",
-    "port" : "3306",
-    "database" : "study01"
+    "host" : "hostname",
+    "user" : "username",
+    "password" : "passwrd",
+    "port" : "port number",
+    "database" : "database name"
 }
