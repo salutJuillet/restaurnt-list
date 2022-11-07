@@ -8,7 +8,8 @@
 # restaurant-list
 
 <div align="center">
-  <img src="client/public/images/preview.png" width="400px"/>
+  <img src="client/public/images/preview.png" width="400px"/> <br/>
+  <a href="https://youtu.be/2A_KpOsdrIU" target="_blank">https://youtu.be/2A_KpOsdrIU</a>
 </div>
 
 <br/><br/>
